@@ -1,4 +1,5 @@
-# my-first-website
+# my-first-project
+
  Clothing Store Landing Page
 
 A simple static clothing e-commerce landing page inspired by an online shopping website. The project displays a promotional banner, top offers, product categories, and a footer with contact and social information.
